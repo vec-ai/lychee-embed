@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat"></a>
 </p>
 
+[Paper copy](./assets/colm25-paper-lychee.pdf)
 
 ## Introduction
 We introduce a multi-stage framework for training generalist text embedding and reranking models.
